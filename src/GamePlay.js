@@ -7,7 +7,7 @@ GamePlayManager = {
     },
     preload: function() {
 		var me=this;
-        me.load.image('background',"assets/images/fondo1.png");
+        me.load.image('background',"assets/images/fondo2.png");
 		me.load.spritesheet("crow","assets/images/tel1.png",269,300);
 		me.load.spritesheet("dino","assets/images/tri1.png",360.4,250);
 		me.load.spritesheet("trex","assets/images/trex2.png",370,300);
